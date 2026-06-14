@@ -1,0 +1,12 @@
+# Generated browser launch output
+生成结果_登录窗口/
+
+# Chrome profile data should never be committed
+data/
+**/data/
+
+# Local temporary files
+*.tmp
+~$*.xlsx
+Thumbs.db
+Desktop.ini
